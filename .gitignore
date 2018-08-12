@@ -2,4 +2,4 @@
 .env
 .DS_Store
 package-lock.json
-/MongoURI
+MongoURI

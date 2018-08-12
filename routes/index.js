@@ -29,6 +29,7 @@ router.post('/create', (req, res) => {
 				confirmation: 'success',
 				movie: movie
 			})
+			return // need to test this
 	})
 })
 
